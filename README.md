@@ -1,1 +1,1 @@
-# financial-backend
+# Rupies-financial-tracker-backend
